@@ -1285,14 +1285,3 @@ def about():
             "REST API integration",
         ],
     }
-## Application Screenshots
-
-| Chat & Q&A Interface | PDF Upload & Processing |
-| :---: | :---: |
-| ![Chat UI](assets/ui_chat_interface.png) |<img width="1915" height="903" alt="image" src="https://github.com/user-attachments/assets/0b5d81e8-acc2-46c8-916b-bd7aa4ff05f5" />
-
-
-| FastAPI Swagger Endpoints | Terminal Agent Trace |
-| :---: | :---: |
-| ![Swagger Docs](assets/swagger_api_docs.png) |<img width="1911" height="952" alt="image" src="https://github.com/user-attachments/assets/d755593f-a2dd-4521-b200-62f877e39295" />
-<img width="1910" height="930" alt="image" src="https://github.com/user-attachments/assets/06abade6-8087-4f8c-b418-eecf9b75bc65" />
