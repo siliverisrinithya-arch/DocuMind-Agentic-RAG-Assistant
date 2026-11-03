@@ -1,0 +1,29 @@
+# Environment variables and secrets
+
+.env
+.env.*
+
+# Python virtual environments
+
+.venv/
+.venv-1/
+venv/
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Vector database (can be regenerated)
+
+vectorstore/
+
+# Frontend dependencies and builds
+
+frontend/node_modules/
+frontend/dist/
+
+# Temporary files
+
+*.log
+.DS_Store
